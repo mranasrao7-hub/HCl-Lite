@@ -1,0 +1,13 @@
+{
+    "company_name": "My Company",
+    "office_start": "09:00",
+    "grace_minutes": 15,
+    "annual_leave_quota": 20,
+    "working_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+    ]
+}

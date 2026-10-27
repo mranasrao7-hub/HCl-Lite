@@ -1,0 +1,3 @@
+from src.attendance_manager import show_attendance_manager
+
+show_attendance_manager()

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "ali",
+        "email": "ali456@gmail.com",
+        "department": "Finance",
+        "job_title": "data Analysis",
+        "monthly_salary": 70000,
+        "joining_date": "2026-10-25",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Hasnain",
+        "email": "hasnain412@gmail.com",
+        "department": "AI",
+        "job_title": "AI Engineer",
+        "monthly_salary": 90000.0,
+        "joining_date": "2026-10-25",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "name": "mustafa",
+        "email": "mustafa123@gmail.com",
+        "department": "Data Science",
+        "job_title": "Data Science",
+        "monthly_salary": 50000.0,
+        "joining_date": "2026-10-25",
+        "status": "Active",
+        "password_salt": "ac5880f7075124b02f7d1daf3976149b",
+        "password_hash": "2b86a0d7d4019b7ac2fb30a203d5755deefa0915bcd0e7bf6cd119bd5e91ba05"
+    }
+]
